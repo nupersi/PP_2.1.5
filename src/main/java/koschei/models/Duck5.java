@@ -14,3 +14,5 @@ public class Duck5 {
         return ", в утке яйцо " + egg6.toString();
     }
 }
+
+// test
